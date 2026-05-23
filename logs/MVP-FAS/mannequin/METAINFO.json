@@ -1,0 +1,1 @@
+{"list_transforms": ["ShiftScaleRotateTransform", "DefocusTransform", "CoarseDropoutTransform", "EqualizeTransform"], "description": "MVP-FAS domain=mannequin"}

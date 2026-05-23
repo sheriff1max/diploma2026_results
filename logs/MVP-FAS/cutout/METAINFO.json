@@ -1,0 +1,1 @@
+{"list_transforms": ["PixelDropoutTransform", "MorphologicalTransform", "ShiftScaleRotateTransform", "GridDropoutTransform", "BlurTransform", "GaussNoiseTransform", "ZoomBlurTransform"], "description": "MVP-FAS domain=cutout"}

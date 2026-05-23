@@ -1,0 +1,1 @@
+{"list_transforms": ["CompressionTransform", "PerspectiveTransform", "SharpenTransform", "ChromaticAberrationTransform", "MorphologicalTransform", "CoarseDropoutTransform"], "description": "MVP-FAS domain=print", "datetime": "2026-05-08 08:57:46"}

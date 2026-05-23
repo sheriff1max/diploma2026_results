@@ -1,0 +1,1 @@
+{"list_transforms": ["MorphologicalTransform", "HSVTransform", "RainbowTransform", "CoarseDropoutTransform"], "description": "MVP-FAS domain=screen"}

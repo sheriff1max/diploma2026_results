@@ -1,0 +1,1 @@
+{"list_transforms": ["CoarseDropoutTransform", "MedianBlurTransform", "PixelDropoutTransform", "SnowTransform", "PerspectiveTransform", "SolarizeTransform"], "description": "MVP-FAS domain=mask", "datetime": "2026-05-08 18:08:04"}
